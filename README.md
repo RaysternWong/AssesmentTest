@@ -1,7 +1,7 @@
 # TECHNICAL ASSESSMENT FOR BACK-END DEVELOPER
 
 I wrote a console application for this project, 
-the [Sql Query](https://gitlab.com/Raystern/TestBackEnd/-/blob/master/QueryForPart2.sql) and the [localdb](https://gitlab.com/Raystern/TestBackEnd/-/tree/master/localdb) is included in this repo.
+the [Sql Query](https://github.com/RaysternWong/AssesmentTest/blob/master/QueryForPart2.sql) and the [localdb](https://github.com/RaysternWong/AssesmentTest/tree/master/localdb) is included in this repo.
 
 I estimated total 7 hours to complete this project, 80% for self study and testing.
 
